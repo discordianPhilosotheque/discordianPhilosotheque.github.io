@@ -1,0 +1,2 @@
+# discordianPhilosotheque.github.io
+lulz
