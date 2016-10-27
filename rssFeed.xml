@@ -6,15 +6,11 @@
         <description>...</description>
         <link>https://discordianphilosotheque.github.io/</link>
         <image>
-            <url></url>
+            <url>https://discordianphilosotheque.github.io/imgs/logo1.png</url>
             <title></title>
         </image>
         <item>
             <title>The start of an adventure</title>
-            <link>https://discordianphilosotheque.github.io/</link>
-        </item>
-        <item>
-            <title>The start of an adventure 2</title>
             <link>https://discordianphilosotheque.github.io/</link>
         </item>
     </channel>
