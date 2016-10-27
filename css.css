@@ -1,12 +1,47 @@
 .mainTitle {
-    font-size : 50px ;
-    font-family : sans-serif ;
+    font-size : 4em ;
     color : grey ;
     margin-left : 80px ;
     margin-right : 80px ;
     margin-top : 40px ;
+    text-align : center ;
 }
 
-body {
-    background-color : black ;
+.subTitleInline {
+    font-size : 1.6em ;
+    color : grey ;
+    font-weight : bold ;
 }
+
+.block {
+    line-height : 3em ;
+    padding-left : 120px ;
+    padding-right : 120px ;
+}
+
+.block.a { background-color : #496658 }
+.block.b { background-color : #5C7074 }
+.block.c { background-color : #5C5360 }
+.block.d { background-color : #4E5041 }
+.block.e { background-color : #355037 }
+.block.e { background-color : #2B2A41 }
+
+body {
+    background-color : #3E4B45 ;
+    font-family : sans-serif ;
+    color : white ;
+    margin : 0 ;
+}
+
+p {
+    margin : 0 ;
+    padding-bottom : 15px ;
+    padding-top : 15px ;
+}
+
+a.clickableTitle {
+    text-decoration : none ;
+}
+
+a { color : lightblue ; }
+a:visited { color : lightsalmon ; }
